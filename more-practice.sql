@@ -4,7 +4,7 @@
 
 -- INSERT
 INSERT INTO models (year, brand_name, name) VALUES (2015, 'Chevrolet', 'Malibu');
-INSERT INTO models (year, brand_name, name) VALUES (2015, 'Subaru', 'Outback')
+INSERT INTO models (year, brand_name, name) VALUES (2015, 'Subaru', 'Outback');
 -- CREATE TABLE
 CREATE TABLE awards(
     name VARCHAR(30) NOT NULL, 
